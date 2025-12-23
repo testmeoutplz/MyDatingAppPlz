@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<people>
+  <person id="p1">
+    <name>Alice</name>
+    <age>28</age>
+    <tagline>Outdoor lover • Coffee first</tagline>
+    <likes>Hiking, Coffee, Dogs</likes>
+    <description>Loves sunrise hikes and cozy cafés. Looking for someone to explore with.</description>
+    <image>https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=800&amp;auto=format&amp;fit=crop&amp;q=80</image>
+    <image>https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=800&amp;auto=format&amp;fit=crop&amp;q=80</image>
+  </person>
+
+  <person id="p2">
+    <name>Ben</name>
+    <age>30</age>
+    <tagline>Techie &amp; amateur chef</tagline>
+    <likes>Cooking, Startups, Sci-fi</likes>
+    <description>Building things and cooking late-night noodles. Ask me about my latest recipe.</description>
+    <image>https://images.unsplash.com/photo-1545996124-1bfc3f5c1b4f?w=800&amp;auto=format&amp;fit=crop&amp;q=80</image>
+    <image>https://images.unsplash.com/photo-1531123897727-8f129e1688ce?w=800&amp;auto=format&amp;fit=crop&amp;q=80</image>
+  </person>
+
+  <person id="user" special="self">
+    <name>You</name>
+    <age>26</age>
+    <tagline>Your bio</tagline>
+    <likes>Music, Travel</likes>
+    <description>This entry represents the user's info and will be provided to the AI when chats start.</description>
+    <image>https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?w=800&amp;auto=format&amp;fit=crop&amp;q=80</image>
+    <image>https://images.unsplash.com/photo-1545996124-1bfc3f5c1b4f?w=800&amp;auto=format&amp;fit=crop&amp;q=80</image>
+  </person>
+</people>
